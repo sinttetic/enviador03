@@ -41,7 +41,5 @@ client.on('messageCreate', async (message) => {
     }
 });
 
-// client.login("NDk3NTAwODk0NzI0NjIwMzAw.Gu-GdN.C3JsZgradzEGj-eH_M3Zi8XGOt7c05laNr2SmU"); // token conta 03 rky
-
 const token = process.env.token03
 client.login(token);
