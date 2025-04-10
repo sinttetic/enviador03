@@ -8,7 +8,7 @@
   },
   "name": "self",
   "version": "1.0.0",
-  "main": "main.js",
+  "main": "salvar_03.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node salvar_03.js"
